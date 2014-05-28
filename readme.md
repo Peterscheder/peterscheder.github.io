@@ -6,21 +6,18 @@
 ####Motivation
 -Write a introductory pirate Story 
 -Introduce the pirates
--base pirates on real life characters of friends 
--make it accessible online 
--post in friends fb group
-
-##Design 
-
--Pirate related Foto Background for Title
--Minimalistic Design 
--Scrolldown Style 
 -Pirate Story 
 -Captain 
 -Helmsman 
 -Deckhand  
 -Cook 
 -Shipmonkey
+
+##Design 
+
+-Pirate related Foto Background for Title
+-Minimalistic Design 
+-Scrolldown Style 
 
 -Pirate Story on plain white Background 
 -Descriptive pictures behind the characters 
