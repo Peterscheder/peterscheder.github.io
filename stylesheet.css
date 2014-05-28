@@ -3,7 +3,7 @@ body {
   padding: 50 50 50 50;
   font: 300 16px/1.4 'Open Sans', Helvetica, sans-serif;
   font-weight: bold;
-  background-image: url("http://indervilla.com/home/Pirate-Ship-Fantasy-HD.jpg");
+  
 }
 
 p {font-size: 20; 
@@ -12,22 +12,25 @@ background-color: lightblue;
 padding-right: 350px;
 font-weight: bold;
 opacity: 0.8;
-width: 400px;
 position: center;
 } 
 
+.container {background-image: url("http://hdwpapers.com/walls/pirate_ship_wallpaper-other.jpg");
+			padding: 30 30 30 30;}
+
 .title {background-color: blue; 
-		text-align: center; 
-		color: white; 
-		opacity: 0.8; 
-		width: 400px;
+		text-align: center;
+		padding-top: 340px; 
+		color: darkred; 
+		opacity: 0.9; 
+		height: 650px;
 		position: center;
+		background-image: url("http://indervilla.com/home/Pirate-Ship-Fantasy-HD.jpg");
 	}
 
 .Story {background-color: lightblue; 
 		text-align: center; 
 		opacity: 0.8;
-		width: 600px;
 		position: center;
 	}
 
@@ -35,7 +38,8 @@ position: center;
 		text-align: center; 
 		color: white; 
 		opacity: 0.8;
-		width: 400px;
 		position: center;
+		margin-top: 150px;
+
 	}
 
